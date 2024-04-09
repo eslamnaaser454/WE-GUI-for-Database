@@ -1,0 +1,73 @@
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\bin\Debug\WEEEE.exe.config
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\bin\Debug\WEEEE.exe
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\bin\Debug\WEEEE.pdb
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.AssemblyReference.cache
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.Form1.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.Properties.Resources.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.GenerateResource.cache
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.CoreCompileInputs.cache
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.exe
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.pdb
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.CopyComplete
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.Form2.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.Form3.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.Form4.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.Form5.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl1.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl2.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl3.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl4.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl5.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl6.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl7.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl8.resources
+C:\Users\ELMOHANDS\source\repos\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl9.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\bin\Debug\WEEEE.exe.config
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\bin\Debug\WEEEE.exe
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\bin\Debug\WEEEE.pdb
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.Form1.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.Form2.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.Form3.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.Form4.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.Form5.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.Properties.Resources.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl1.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl2.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl3.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl4.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl5.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl6.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl7.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl8.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl9.resources
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.GenerateResource.cache
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.CoreCompileInputs.cache
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.CopyComplete
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.exe
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.pdb
+C:\Users\ELMOHANDS\Desktop\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.AssemblyReference.cache
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\bin\Debug\WEEEE.exe.config
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\bin\Debug\WEEEE.exe
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\bin\Debug\WEEEE.pdb
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.AssemblyReference.cache
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.Form1.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.Form2.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.Form3.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.Form4.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.Form5.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.Properties.Resources.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl1.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl2.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl3.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl4.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl5.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl6.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl7.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl8.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.UserControl9.resources
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.GenerateResource.cache
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.CoreCompileInputs.cache
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.csproj.CopyComplete
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.exe
+F:\collage\cs third term\data base\project\WEEEE\WEEEE\obj\Debug\WEEEE.pdb
